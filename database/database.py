@@ -6,7 +6,7 @@ from pyrogram.types import InlineKeyboardButton, Message, InlineKeyboardMarkup
 from imdb import IMDb
 
 CHANNEL_LINK = "https://t.me/joinchat/7pwRP5_snDhhNmE1"
-CHANNEL_NAME = "join My Update Channel"
+CHANNEL_NAME = "🎪Oғғɪᴄɪᴀʟ Cʜᴀɴɴᴇʟ🎪"
 
 
 imdb = IMDb() 
